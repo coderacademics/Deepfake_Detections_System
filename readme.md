@@ -1,8 +1,3 @@
-Absolutely! Here's the complete `README.md` written entirely in **Markdown**, including all formatting, code blocks, tables, links, and section headers — ready to copy-paste directly into your GitHub repository:
-
----
-
-```markdown
 # 🧠 Deepfake Detection System from Videos
 
 A complete deep learning-based application to detect **deepfake videos** using a fine-tuned `Xception` model trained on the **FaceForensics++ C23 dataset**. Built using **PyTorch** and **Streamlit**, this project allows you to upload and analyze `.mp4` videos in real-time, and classify them as **Real** or **Fake** based on face frame analysis.
